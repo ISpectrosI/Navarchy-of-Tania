@@ -1,13 +1,12 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/ISpectrosI/Navarchy-of-Tania/refs/heads/main/tania.version",
-    "modName":"Navarchy of Tania",
-    "modThreadId":"35489",
-    "directDownloadURL":"https://www.nexusmods.com/starsector/mods/152?tab=files&file_id=1132",
-    "changelogURL":"",
-    "modVersion":
+  "masterVersionFile": "https://raw.githubusercontent.com/ISpectrosI/Navarchy-of-Tania/master/tania.version",
+  "modName": "MagicLib",
+  "modThreadId": "35489",
+  "directDownloadURL": "https://www.nexusmods.com/starsector/mods/152?tab=files&file_id=1132",
+  "modVersion":
     {
-        "major":1,
-        "minor":0,
-        "patch":2
-    },
+      "major": "1",
+      "minor": "0",
+      "patch": "2"
+    }
 }
