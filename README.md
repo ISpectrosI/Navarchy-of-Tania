@@ -3,6 +3,8 @@ A nation forged in despair and war, that survived the Luddic Church mayhem. The 
 
 All the code material and graphic resources therein can be reused in the context of modding projects for Starsector provided proper credits are attributed. Please make sure to credit I Spectros I.
 
+Source code can be found on the mod file provided on the releases section.
+
 Music is licensed from Alex Roe and D. Senji.
 
 Links for their Youtube channels:
