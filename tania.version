@@ -2,12 +2,12 @@
     "masterVersionFile":"https://raw.githubusercontent.com/ISpectrosI/Navarchy-of-Tania/refs/heads/main/tania.version",
     "modName":"Navarchy of Tania",
     "modThreadId":35489,
-    "directDownloadURL":"https://www.nexusmods.com/starsector/mods/152?tab=files&file_id=1132",
+    "directDownloadURL":"https://github.com/ISpectrosI/Navarchy-of-Tania/releases",
     "changelogURL":"",
     "modVersion":
     {
         "major":1,
-        "minor":1,
+        "minor":2,
         "patch":0
     },
 }
