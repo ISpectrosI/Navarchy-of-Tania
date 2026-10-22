@@ -1,9 +1,11 @@
 # Navarchy-of-Tania
 A nation forged in despair and war, that survived the Luddic Church mayhem. The Navarchy of Tania succeeds on fast paced combat, constantly changing positions and pushing enemies from multiple directions. Its ships specialize in resilience over firepower, often demonstrating survivability prowess on the battlefield, sporting strong armor, efficient (but narrow) shield emitters and astonishing mobility. Victory is assured by outliving the enemies, using their own mistakes against themselves.
 
-All the code material and graphic resources therein can be reused in the context of modding projects for Starsector provided proper credits are attributed. Please make sure to credit I Spectros I.
+All the code material and graphic resources therein can only be reused in the context of modding projects for Starsector and provided proper credits are attributed. Please make sure to credit I Spectros I.
 
-Source code can be found on the mod file provided on the releases section.
+Must comunicate I Spectros I previously before reusing assets, modifying, expanding or distributing in any form or shape code material and graphic resources therein this project.
+
+AI training using assets from this project is not allowed in any way.
 
 Music is licensed from Alex Roe and D. Senji.
 
