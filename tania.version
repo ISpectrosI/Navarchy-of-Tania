@@ -2,12 +2,12 @@
     "masterVersionFile":"https://raw.githubusercontent.com/ISpectrosI/Navarchy-of-Tania/refs/heads/main/tania.version",
     "modName":"Navarchy of Tania",
     "modThreadId":35489,
-    "directDownloadURL":"https://github.com/ISpectrosI/Navarchy-of-Tania/releases/download/1.3.1/Navarchy.of.Tania.-.1.3.1.zip",
+    "directDownloadURL":"https://github.com/ISpectrosI/Navarchy-of-Tania/releases/download/1.4.0/Navarchy.of.Tania.-.1.4.0.zip",
     "changelogURL":"",
     "modVersion":
     {
         "major":1,
-        "minor":3,
+        "minor":4,
         "patch":1
     },
 }
